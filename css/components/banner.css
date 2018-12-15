@@ -1,0 +1,23 @@
+/* Your banner CSS code here */
+.main-banner {
+  background-size: cover !important;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+.banner-content h1 {
+  text-transform: uppercase;
+  font-size: 70px;
+  margin: 0;
+  padding-bottom: 30px;
+}
+.banner-content p {
+  font-family: Raleway, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  padding-bottom: 70px;
+  margin: 0;
+}

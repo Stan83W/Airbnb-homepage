@@ -1,0 +1,24 @@
+/* Your card CSS code here */
+.card {
+  box-shadow: 0px 0px 7px rgb(190,190,190);
+  height: 180px;
+  background-size: cover !important;
+  color: white;
+  position: relative;
+  margin: 10px 0;
+}
+.card-category {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: lighter;
+  opacity: 0.9;
+}
+.card-description {
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+}

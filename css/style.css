@@ -1,0 +1,26 @@
+@import url("components/banner.css");
+@import url("components/avatar.css");
+@import url("components/card.css");
+
+body {
+  margin: 0;
+  height: 100%;
+  margin-bottom: 100px;
+  font-family: 'Varela Round', sans-serif;
+}
+.footer {
+  background: #04A366;
+  padding: 20px;
+  margin-top: 50px;
+}
+.footer a {
+  font-size: 25px;
+  color: white;
+  opacity: 0.6;
+}
+.footer a:hover {
+  opacity: 0.9;
+}
+.padded {
+  margin: 100px auto;
+}
